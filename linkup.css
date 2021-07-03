@@ -1,0 +1,66 @@
+
+    
+  .blog1{
+
+    color: white;
+    background-color: black;
+    border:8px solid tomato;
+    border-radius: 20px;
+    margin: 20px;
+ 
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 25px;
+    padding-top: 30px;
+ 
+ 
+ 
+   }
+ 
+   .blog2{
+ 
+     color: white;
+     background-color:yellowgreen;
+     border:8px solid tomato;
+     border-radius: 20px;
+     margin-top: 20px;
+     margin-bottom: 30px;
+     margin-left: 30px;
+     margin-right: 40px;
+     padding: 20px;
+ 
+ }
+ 
+ .blog3{
+ 
+    color: tomato;
+ }
+ 
+ .blog-title{
+ 
+ text-align: center;
+ font-size: 30px;
+ font-family: 'Courier New', Courier, monospace;
+ font-weight: 900;
+ 
+ }
+ 
+ .blog1 p{
+ 
+   text-align: justify;
+   color: tomato;
+ }
+ 
+ .blog2 p{
+ 
+ text-align: justify;
+ color: tomato;
+ }
+ 
+ 
+ h4{ 
+
+display: inline;
+
+ }
+ 
